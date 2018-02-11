@@ -2,6 +2,6 @@ id=gcam-patch
 name=Google Camera Patch
 version=1.4
 versionCode=5
-author=simonsmh
+author=simonsmh&bryan
 description=Fix slomo & 60fps not working on GCam.
 minMagisk=1500
